@@ -1,2 +1,2 @@
 
-Este archivo de ejemplo para probar el programa hoal mundo
+Este es una prueba del programa hola mundo
